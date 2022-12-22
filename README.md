@@ -23,5 +23,6 @@ FrameWorks:
 
 🌱 I’m currently learning React so I can deepen my skills in JS.  
 
+
 📫 In case you wanna reach me, check out the following:  
 - https://www.linkedin.com/in/sergiotorresdev/  
